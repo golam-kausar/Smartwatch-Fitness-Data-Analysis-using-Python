@@ -1,7 +1,10 @@
 # Smartwatch-Fitness-Data-Analysis-using-Python
-## Objective: Analyze smartwatch fitness data to uncover insights into users' daily activity patterns, calorie expenditure, and activity levels.  
-## Dataset:Publicly available Fitbit dataset from Kaggle, consisting of data from 30 female users.  
-## Tools & Libraries: Python, Pandas, NumPy, Matplotlib, Plotly.  
+## Objective:
+Analyze smartwatch fitness data to uncover insights into users' daily activity patterns, calorie expenditure, and activity levels.  
+## Dataset
+Publicly available Fitbit dataset from Kaggle, consisting of data from 30 female users.  
+## Tools & Libraries
+Python, Pandas, NumPy, Matplotlib, Plotly.  
 ## Key Tasks:
 - Data cleaning and preprocessing (e.g., handling date formats).  
 - Exploratory Data Analysis (EDA) to identify activity trends.  
